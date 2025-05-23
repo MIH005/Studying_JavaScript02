@@ -1,5 +1,4 @@
-﻿# Hora-de-codar-2
-# Exercícios de Programação em JavaScript
+# Exercícios de Lógica Programação em JavaScript
 
 Este repositório contém soluções para uma série de exercícios básicos de programação em JavaScript. Cada exercício é projetado para praticar conceitos fundamentais de programação, como manipulação de variáveis, controle de fluxo e operações matemáticas.
 
